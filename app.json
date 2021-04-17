@@ -1,0 +1,12 @@
+{
+  "name": "Status Up bot",
+  "description": "A Simple bot for updating status of your bots",
+  "repository": "https://github.com/Hirusha-H/TelegraphUploader",
+  "logo": "https://telegra.ph/file/c487058c1c2b6dd439c10.jpg",
+  "keywords": ["telegram"],
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
